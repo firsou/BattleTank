@@ -52,6 +52,7 @@ SourceArt/**/*.tga
 
 # Binary Files
 Binaries/*
+Content/KiteDemo/*
 Plugins/*/Binaries/*
 
 # Builds
